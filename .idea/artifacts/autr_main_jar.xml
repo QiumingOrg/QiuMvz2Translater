@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="autr.main:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/autr_main_jar</output-path>
+    <root id="archive" name="autr.main.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/main/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="autr.main" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.alibaba.fastjson2/fastjson2/2.0.60/b18bd1b2823942d778979f973a82e5e83de2c24b/fastjson2-2.0.60.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.xerial/sqlite-jdbc/3.50.3.0/220f0cdfe9c5b97926a417fa11848ce8817d2135/sqlite-jdbc-3.50.3.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
