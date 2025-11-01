@@ -3,7 +3,7 @@ This tool is an external text file format conversion and translation utility cus
 
 It is recommended to download the translated files, perform the conversion using this tool, and place them in the "texts" folder within the game directory of MVZ2 GMS2 version.
 
-The original project also supported automatic translation and translation cache upload. However, as it contained personal tokens, it could not be made public, and the corresponding code has been removed. **
+**The original project also supported automatic translation and translation cache upload. However, as it contained personal tokens, it could not be made public, and the corresponding code has been removed.**
 
 ## How to Use This Program
 Download the jar file from Release, then run `java -jar .\autr.main.jar -l <file path>`
